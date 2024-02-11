@@ -7,3 +7,5 @@ gem "sinatra"
 gem "sinatra-contrib", "~> 4.0"
 
 gem "rake", "~> 13.1"
+
+gem "rack", "~> 3.0"
