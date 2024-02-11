@@ -11,3 +11,5 @@ gem "rake", "~> 13.1"
 gem "rack", "~> 3.0"
 
 gem "rackup", "~> 2.1"
+
+gem "smart_properties", "~> 1.17"
